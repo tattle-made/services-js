@@ -24,6 +24,11 @@
   },
   "homepage": "https://github.com/tattle-made/services-js#readme",
   "dependencies": {
-    "twit": "^2.2.11"
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^3.22.0",
+    "morgan": "^1.10.0"
   }
 }
